@@ -1,0 +1,24 @@
+{
+  "name": "Giveaway-Sniper",
+  "version": "v0.0.1",
+  "description": "A bot for sniping giveaways made by keemroh!!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot": "^12.0.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://cracked.to/Krxcked"
+  },
+  "license": "MIT",
+  "keywords": [
+    "givaway",
+    "keemroh",
+    "krxcked"
+  ]
+}
